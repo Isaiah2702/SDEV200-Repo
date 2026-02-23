@@ -1,0 +1,2 @@
+TASK|t1|V3JpdGUgcmVwb3J0|RmluaXNoIGRvY3M=|2026-02-18|High|Pending|false
+APPT|a1|VGVhbSBTeW5j|V2Vla2x5IHN0YXR1cyBtZWV0aW5n|2026-02-19|Medium|Pending|09:00|10:00|Um9vbSAxMDE=
