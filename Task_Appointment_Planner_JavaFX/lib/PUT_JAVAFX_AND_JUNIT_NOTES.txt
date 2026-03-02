@@ -1,8 +1,0 @@
-lib/ is optional for this project.
-
-- For JUnit 4 tests (optional):
-  Put junit-4.13.2.jar and hamcrest-core-1.3.jar here.
-
-- JavaFX SDK is NOT included in this zip.
-  In VS Code / IntelliJ, configure your JavaFX SDK separately and add VM options:
-  --module-path "PATH_TO_FX/lib" --add-modules javafx.controls,javafx.fxml
